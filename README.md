@@ -1,7 +1,7 @@
 # Japonic
 
 ## About this data
-The file **dat.csv** is a cognate coded dataset of sensory language for Japonic. It contains words for 110 sensory concepts in 49 Japonic varieties (48 Japanese varieties and 1 Ryukyuan variety). Information about the linguistic varieties can be found in the file **varieties.tsv**. Information about the concepts can be found in the file **concepts.tsv**. A bibliography of the data sources used is available in **sources.bib**. 
+The file **dat.csv** is a cognate coded dataset of sensory vocabulary. It contains words for 110 sensory concepts in 49 Japonic varieties (48 Japanese varieties and 1 Ryukyuan variety). Information about the linguistic varieties can be found in the file **varieties.tsv**. Information about the concepts can be found in the file **concepts.tsv**. A bibliography of the data sources used is available in **sources.bib**. 
 
 ## Cognate coding
 

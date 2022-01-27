@@ -1,4 +1,6 @@
-# Japonic
+# Sensory Lexicon of Japonic
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5910194.svg)](https://doi.org/10.5281/zenodo.5910194)
 
 ## About this data
 The file **dat.csv** is a cognate coded dataset of sensory vocabulary. It contains words for 110 sensory concepts in 49 Japonic varieties (48 Japanese varieties and 1 Ryukyuan variety). Information about the concepts can be found in the file **concepts.tsv**. A bibliography of the data sources used is available in **sources.bib**. 

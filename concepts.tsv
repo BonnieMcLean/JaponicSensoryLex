@@ -14,8 +14,8 @@ CHEW	321	kamu	よく噛んで食べなさい	Eat it and CHEW it well!	噛む	act
 CLEAN	704	kirei	掃除をしたので、きれいになった。	Because I cleaned, it's TIDY now.	奇麗	appearance	1634839	sanada_2015	none	
 CLEAR	989	suQkiri	今日はなんだか頭がすっきりしない。	I just can't CLEAR my head today.	すっきり	bodily feeling	337061	sanada_2018	none	a few places translated this as boNyari, it's listed in sanada_2018 under the pain ideophones for some reason
 CLINGING		netyinetyi	ねちねちと執念深いから、あの人には用心しないといけない。	Because they CLING to their grudges, you need to be careful around that person.	ねちねち	action	12506	sanada_2015	none	
-COARSE	2151	arai	網の目が粗い	The holes in the mesh are COARSE.	粗い	appearance	39088	hirayama_1992	none	
-ROUGH	1923	zarazara	床が砂でざらざらしている	The floor is ROUGH with sand.	ざらざら	texture	14122	sanada_2018	none	
+ROUGH-1	2151	arai	網の目が粗い	The holes in the mesh are COARSE.	粗い	appearance	39088	hirayama_1992	none	
+ROUGH-2	1923	zarazara	床が砂でざらざらしている	The floor is ROUGH with sand.	ざらざら	texture	14122	sanada_2018	none	
 COLD (WEATHER)	2483	samui	今日はかなりさむい。体がぶるぶる震える。	Today is really COLD. I'm SHAKING.	寒い	temperature	725280	sanada_2018	ABVD; S200	
 COLD TO TOUCH-1	1287	kiNkiN	この水、きんきんにつめたいね。	This water is COLD.	きんきん	temperature	4549	sanada_2018	ABVD; S200	
 COLD TO TOUCH-2	1287	tsumetai	この水、きんきんにつめたいね。	This water is COLD.	冷たい	temperature	312391	sanada_2018	ABVD; S200	
@@ -23,32 +23,32 @@ COOL	2483	suzusyii	クーラーをつけて、すずしい部屋で眠る。	I t
 CRAMPED	1267	semai	庭が狭い	The garden is CRAMPED.	狭い	shape & size	380194	hirayama_1992	S200	
 CRAMPING (STOMACH)		syikusyiku	心配事が多くて、ストレスで胃がしくしくする。	I have so many things to worry about and I have a CRAMPING in my stomach from the stress.	しくしく	pain	12115	sanada_2018	none	
 CRAWL	96	hau	赤ん坊が這う	the child CRAWLS	這う	action	57717	hirayama_1992	none	
-CRY		naku	声をあげて泣く	raise your voice and CRY	泣く	sound	888462	hirayama_1992	ABVD	
-CUNNING		zurui	ぜんぜんずるい人には見えなかったけどねえ。	But they didn't look like a CUNNING person at all.	狡い	action	47097	sanada_2015	none	
-DARK		kurai	少し前はくらかったけど、今は五時前にはもうあかるい。	It was a little DARK before, but now it is bright.	暗い	appearance	360682	sanada_2018	none	this is the same root as black which is in the ABVD
-DRY		kawaku	洗濯物は乾いたかな。	I think the washing is DRY.	乾く	texture	154517	hirayama_1992	ABVD; S200	
-EMPTY		karada	none given	none given	空	shape & size	752375	hirayama_1992		
-EXHAUSTED-1		guQtari	朝からずっと畑仕事していたので、もうぐったりだ。	Because I've been working in the field all day, I'm completely exhausted.	ぐったり	bodily feeling	45669	sanada_2018	none	
-EXHAUSTED-2		syiNdoi	(暑い中で仕事をした後で)ああ、しんどい	(After working in the heat), Aaa, I'm EXHAUSTED.	しんどい	bodily feeling	128369	sanada_2018	none	
-FAST		hayai	歩くのが速い	Walking FAST	速い	action	153062	hirayama_1992	none	
-FLAT		taira	平らな土地	FLAT soil.	平ら	texture	39498	hirayama_1992	none	
-FREEZE		kooru	手ぬぐいが凍る	A hand towel FREEZES.	凍る	temperature	58534	hirayama_1992	S200	for water freezing, more places just use the basic kooru
-FULL (TO THE BRIM)		iQpai	水がいっぱいになった	The water is FULL (TO THE BRIM)	いっぱい	shape & size	1263956	hirayama_1992		
-GLAD		uresyii	元気でまた会えて、本当に嬉しいね	I'm very GLAD I could see you again and that you're doing well.	嬉しい	emotion	1943713	sanada_2015	none	
+CRY	1839	naku	声をあげて泣く	raise your voice and CRY	泣く	sound	888462	hirayama_1992	ABVD	
+CUNNING	2335	zurui	ぜんぜんずるい人には見えなかったけどねえ。	But they didn't look like a CUNNING person at all.	狡い	action	47097	sanada_2015	none	
+DARK	706	kurai	少し前はくらかったけど、今は五時前にはもうあかるい。	It was a little DARK before, but now it is bright.	暗い	appearance	360682	sanada_2018	none	this is the same root as black which is in the ABVD
+DRY	1398	kawaku	洗濯物は乾いたかな。	I think the washing is DRY.	乾く	texture	154517	hirayama_1992	ABVD; S200	
+EMPTY	1624	karada	none given	none given	空	shape & size	752375	hirayama_1992		
+EXHAUSTED-1	1757	guQtari	朝からずっと畑仕事していたので、もうぐったりだ。	Because I've been working in the field all day, I'm completely exhausted.	ぐったり	bodily feeling	45669	sanada_2018	none	
+EXHAUSTED-2	1757	syiNdoi	(暑い中で仕事をした後で)ああ、しんどい	(After working in the heat), Aaa, I'm EXHAUSTED.	しんどい	bodily feeling	128369	sanada_2018	none	
+FAST	3365	hayai	歩くのが速い	Walking FAST	速い	action	153062	hirayama_1992	none	
+FLAT	1633	taira	平らな土地	FLAT earth.	平ら	texture	39498	hirayama_1992	none	
+FREEZE	1431	kooru	手ぬぐいが凍る	A hand towel FREEZES.	凍る	temperature	58534	hirayama_1992	S200	for water freezing, more places just use the basic kooru
+FULL (TO THE BRIM)	1429	iQpai	水がいっぱいになった	The water is FULL (TO THE BRIM)	いっぱい	shape & size	1263956	hirayama_1992		
+GLAD	1495	uresyii	元気でまた会えて、本当に嬉しいね	I'm very GLAD I could see you again and that you're doing well.	嬉しい	emotion	1943713	sanada_2015	none	
 GLARING (OVERLY BRIGHT)	2228	mabusyii	日差しがまぶしい。目がちかちかする。	The sun's rays are GLARING. My eyes are STINGING.	眩しい	bodily feeling	79787	sanada_2018	none	
-HARD		katai	このお弁当は固いなあ	This rice is HARD.	固い	texture	458198	hirayama_1992	ABVD	
-HEAVY		omoi	この荷物はとても重いから、そちらの軽いのを持ってくれ	This suitcase is really HEAVY so please take this light one for me.	重い	shape & size	665770	sanada_2018	ABVD; S200	
-HOT		atsui	今日はとんでもなく、暑い。	It's incredibly HOT today.	暑い	temperature	554715	sanada_2018	S200	
-HUMID-1		musyimusyi	今日はむしあついなあ。むしむししているからエアコンいえて。	Today is really HUMID. Because it's so HUMID please turn on the air con.	むしむし	temperature	5369	sanada_2018	none	
-HUMID-2		zyimezyime	家の中がじめじめしている。布団もしめっぽい。	The inside of the house is HUMID. The futon is also WET.	じめじめ	temperature	13121	sanada_2018	none	
-HUNGRY		himozyii	あの頃はひもじい思いをしたものだ。	At that time I felt very hungry.	ひもじい	bodily feeling	2889	sanada_2018	none	
-ITCHING-1		kayui	蚊に刺されたあとが痒い。	I'm ITCHING after being bitten by a mosquito.	痒い	pain	84568	sanada_2018	none	
-ITCHING-2		tyikutyiku	セーターが肌にちくちくする。	The sweater is ITCHING my skin.	ちくちく	pain	24404	sanada_2018	none	
-LIGHT		karui	この荷物はとても重いから、そちらの軽いのを持ってくれ	This suitcase is really heavy so please take this LIGHT one for me.	軽い	shape & size	918023	sanada_2018	none	
-LIVELY (ENERGETIC)		piNpiN	 あの人は何歳になっても元気でぴんぴんしている。	No matter how old that person gets they are always healthy and LIVELY.	ぴんぴん	bodily feeling	7636	sanada_2018	none	
-LONG		nagai	長い紐	LONG string.	長い	shape & size	2045016	hirayama_1992	ABVD; S200	
+HARD	1884	katai	このお弁当は固いなあ	This rice is HARD.	固い	texture	458198	hirayama_1992	ABVD	
+HEAVY	1210	omoi	この荷物はとても重いから、そちらの軽いのを持ってくれ	This suitcase is really HEAVY so please take this light one for me.	重い	shape & size	665770	sanada_2018	ABVD; S200	
+HOT	1286	atsui	今日はとんでもなく、暑い。	It's incredibly HOT today.	暑い	temperature	554715	sanada_2018	S200	
+HUMID-1	143	musyimusyi	今日はむしあついなあ。むしむししているからエアコンいえて。	Today is really HUMID. Because it's so HUMID please turn on the air con.	むしむし	temperature	5369	sanada_2018	none	
+HUMID-2	143	zyimezyime	家の中がじめじめしている。布団もしめっぽい。	The inside of the house is HUMID. The futon is also WET.	じめじめ	temperature	13121	sanada_2018	none	
+HUNGRY	1533	himozyii	あの頃はひもじい思いをしたものだ。	At that time I felt very hungry.	ひもじい	bodily feeling	2889	sanada_2018	none	
+ITCHING-1	148	kayui	蚊に刺されたあとが痒い。	I'm ITCHING after being bitten by a mosquito.	痒い	pain	84568	sanada_2018	none	
+ITCHING-2	3856	tyikutyiku	セーターが肌にちくちくする。	The sweater is ITCHING my skin.	ちくちく	pain	24404	sanada_2018	none	
+LIGHT	1052	karui	この荷物はとても重いから、そちらの軽いのを持ってくれ	This suitcase is really heavy so please take this LIGHT one for me.	軽い	shape & size	918023	sanada_2018	none	
+LIVELY (ENERGETIC)	1861	piNpiN	 あの人は何歳になっても元気でぴんぴんしている。	No matter how old that person gets they are always healthy and LIVELY.	ぴんぴん	bodily feeling	7636	sanada_2018	none	
+LONG	1203	nagai	長い紐	LONG string.	長い	shape & size	2045016	hirayama_1992	ABVD; S200	
 LUKEWARM		nurui	ぬるい風呂に入って風邪をひいた。	I took a LUKEWARM bath and got a cold.	温い	temperature	37799	sanada_2018	none	
-NOISY		urusai	テレビの音がうるさいよ、もっと小さくして	The television is NOISY, turn it down please.	煩い	sound	243418	sanada_2018	none	
+NOISY	377	urusai	テレビの音がうるさいよ、もっと小さくして	The television is NOISY, turn it down please.	煩い	sound	243418	sanada_2018	none	
 OILY/HEAVY (FOOD)		kudoi	脂っぽい（くどい）おかずばかりで、胸につかえる。	Because all the side dishes were so OILY, I have heartburn.	くどい	taste	30669	sanada_2018	none	
 OOZING		zyikuzyiku	（耳の中が腫れて汁が出ているようだ）耳の奥がじくじくする。	(When the inside of your ear is swollen and pus is coming out) The back of my ear is OOZING (pus).	じくじく	action	2774	sanada_2018	none	
 POUNDING (HEAD)		gaNgaN	頭が割れるように痛い。がんがんする。	My head hurts like its been split open. It's POUNDING.	がんがん	pain	117358	sanada_2018	none	

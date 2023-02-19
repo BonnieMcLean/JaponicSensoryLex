@@ -13,7 +13,7 @@ BRIGHT	679	akarui	少し前はくらかったけど、今は五時前にはも�
 CHEW	321	kamu	よく噛んで食べなさい	Eat it and CHEW it well!	噛む	action	269932	hirayama_1992	ABVD	
 CLEAN	704	kirei	掃除をしたので、きれいになった。	Because I cleaned, it's TIDY now.	奇麗	appearance	1634839	sanada_2015	none	
 CLEAR	989	suQkiri	今日はなんだか頭がすっきりしない。	I just can't CLEAR my head today.	すっきり	bodily feeling	337061	sanada_2018	none	a few places translated this as boNyari, it's listed in sanada_2018 under the pain ideophones for some reason
-CLINGING		netyinetyi	ねちねちと執念深いから、あの人には用心しないといけない。	Because they CLING to their grudges, you need to be careful around that person.	ねちねち	action	12506	sanada_2015	none	
+CLINGING	NA	netyinetyi	ねちねちと執念深いから、あの人には用心しないといけない。	Because they CLING to their grudges, you need to be careful around that person.	ねちねち	action	12506	sanada_2015	none	
 ROUGH-1	2151	arai	網の目が粗い	The holes in the mesh are COARSE.	粗い	appearance	39088	hirayama_1992	none	
 ROUGH-2	1923	zarazara	床が砂でざらざらしている	The floor is ROUGH with sand.	ざらざら	texture	14122	sanada_2018	none	
 COLD (WEATHER)	2483	samui	今日はかなりさむい。体がぶるぶる震える。	Today is really COLD. I'm SHAKING.	寒い	temperature	725280	sanada_2018	ABVD; S200	
@@ -21,7 +21,7 @@ COLD TO TOUCH-1	1287	kiNkiN	この水、きんきんにつめたいね。	This w
 COLD TO TOUCH-2	1287	tsumetai	この水、きんきんにつめたいね。	This water is COLD.	冷たい	temperature	312391	sanada_2018	ABVD; S200	
 COOL	2483	suzusyii	クーラーをつけて、すずしい部屋で眠る。	I turn on the air conditionar and sleep in a COOL room.	涼しい	temperature	183278	sanada_2018	none	
 CRAMPED	1267	semai	庭が狭い	The garden is CRAMPED.	狭い	shape & size	380194	hirayama_1992	S200	
-CRAMPING (STOMACH)		syikusyiku	心配事が多くて、ストレスで胃がしくしくする。	I have so many things to worry about and I have a CRAMPING in my stomach from the stress.	しくしく	pain	12115	sanada_2018	none	
+CRAMPING (STOMACH)	NA	syikusyiku	心配事が多くて、ストレスで胃がしくしくする。	I have so many things to worry about and I have a CRAMPING in my stomach from the stress.	しくしく	pain	12115	sanada_2018	none	
 CRAWL	96	hau	赤ん坊が這う	the child CRAWLS	這う	action	57717	hirayama_1992	none	
 CRY	1839	naku	声をあげて泣く	raise your voice and CRY	泣く	sound	888462	hirayama_1992	ABVD	
 CUNNING	2335	zurui	ぜんぜんずるい人には見えなかったけどねえ。	But they didn't look like a CUNNING person at all.	狡い	action	47097	sanada_2015	none	
@@ -47,26 +47,26 @@ ITCHING-2	3856	tyikutyiku	セーターが肌にちくちくする。	The sweater
 LIGHT	1052	karui	この荷物はとても重いから、そちらの軽いのを持ってくれ	This suitcase is really heavy so please take this LIGHT one for me.	軽い	shape & size	918023	sanada_2018	none	
 LIVELY (ENERGETIC)	1861	piNpiN	 あの人は何歳になっても元気でぴんぴんしている。	No matter how old that person gets they are always healthy and LIVELY.	ぴんぴん	bodily feeling	7636	sanada_2018	none	
 LONG	1203	nagai	長い紐	LONG string.	長い	shape & size	2045016	hirayama_1992	ABVD; S200	
-LUKEWARM		nurui	ぬるい風呂に入って風邪をひいた。	I took a LUKEWARM bath and got a cold.	温い	temperature	37799	sanada_2018	none	
+LUKEWARM	NA	nurui	ぬるい風呂に入って風邪をひいた。	I took a LUKEWARM bath and got a cold.	温い	temperature	37799	sanada_2018	none	
 NOISY	377	urusai	テレビの音がうるさいよ、もっと小さくして	The television is NOISY, turn it down please.	煩い	sound	243418	sanada_2018	none	
-OILY/HEAVY (FOOD)		kudoi	脂っぽい（くどい）おかずばかりで、胸につかえる。	Because all the side dishes were so OILY, I have heartburn.	くどい	taste	30669	sanada_2018	none	
-OOZING		zyikuzyiku	（耳の中が腫れて汁が出ているようだ）耳の奥がじくじくする。	(When the inside of your ear is swollen and pus is coming out) The back of my ear is OOZING (pus).	じくじく	action	2774	sanada_2018	none	
-POUNDING (HEAD)		gaNgaN	頭が割れるように痛い。がんがんする。	My head hurts like its been split open. It's POUNDING.	がんがん	pain	117358	sanada_2018	none	
-POUNDING (HEART)		dokidoki	ああ、こわかった。まだ胸がどきどきしている。	Aa, that was scary. My heart is still POUNDING.	どきどき	sound	259099	sanada_2018	ABVD; S200	
-PRICKLING		igaiga	このタケノコ、少しえぐいな。のどがいがいがする。	This bamboo shoot tastes a bit acrid. My throat is PRICKLING. 	いがいが	pain	3297	sanada_2018	none	
-QUIET-1		syiiN	ここでは何の音もしない。しーんとして静かだね。	There's no sound here at all, it's really QUIET.	しんと	sound	9035	sanada_2018	none	
-QUIET-2		syizuka	ここでは何の音もしない。しーんとして静かだね。	There's no sound here at all, it's really QUIET.	静か	sound	405903	sanada_2018	none	
-RAP (AT THE DOOR)		tataku	戸をたたく	RAP at the door.	叩く	sound	573832	hirayama_1992	ABVD; S200	it's the basic verb for ‘to hit'
-RINGING		kiiN	音が大きすぎて、耳がきーんとする。	The sound is too loud, my ears are RINGING.	きーん	sound	9895	sanada_2018	none	
-ROLL		mawaru	車が回る	Wheels ROLL.	回る	action	814082	hirayama_1992	ABVD; S200	
-ROUND		marui	円い穴	ROUND hole	丸い	shape & size	166797	hirayama_1992	ABVD; S200	
-RUDE		zuuzuusyii	世の中には図々しい人がいるもんだ。	There are some RUDE people in this world.	図々しい	action	23075	sanada_2015	none	
-SAD		kanasyii	悲しい話を聞いて泣けてきた。	I started crying from hearing the SAD story.	悲しい	emotion	440541	sanada_2015		
-SALTY		syoQpai	今日の味噌汁、ちょっとうすいね。でも、あまりしょっぱいのはからだに悪いよ。	Today's miso soup was a bit weak, but SALTY things aren't good for your body.	しょっぱい	taste	23304	sanada_2018	none	
-SCARY-1		kowai	おじさんが怖い。顔でにらんでいた。	Uncle is SCARY. He was glaring.	怖い	emotion	1198511	sanada_2015	ABVD; S200	
-SCARY-2		kowai-dokidokicomp	ああ、こわかった。まだ胸がどきどきしている。	Aa, that was SCARY. My heart is still pounding.	怖い	emotion	1198511	sanada_2018	ABVD; S200	
-SCARY-3		osorosyii	たくさんの犬に追われて、恐ろしい。	I was chased by lots of dogs, it was SCARY.	恐ろしい	emotion	273089	sanada_2015	none	
-SCRATCH		kaku	つめでかく	SCRATCH with your nails.	掻く	action	315147	hirayama_1992	ABVD; S200	
+OILY/HEAVY (FOOD)	NA	kudoi	脂っぽい（くどい）おかずばかりで、胸につかえる。	Because all the side dishes were so OILY, I have heartburn.	くどい	taste	30669	sanada_2018	none	
+OOZING	NA	zyikuzyiku	（耳の中が腫れて汁が出ているようだ）耳の奥がじくじくする。	(When the inside of your ear is swollen and pus is coming out) The back of my ear is OOZING (pus).	じくじく	action	2774	sanada_2018	none	
+POUNDING (HEAD)	NA	gaNgaN	頭が割れるように痛い。がんがんする。	My head hurts like its been split open. It's POUNDING.	がんがん	pain	117358	sanada_2018	none	
+POUNDING (HEART)	NA	dokidoki	ああ、こわかった。まだ胸がどきどきしている。	Aa, that was scary. My heart is still POUNDING.	どきどき	sound	259099	sanada_2018	ABVD; S200	
+PRICKLING	NA	igaiga	このタケノコ、少しえぐいな。のどがいがいがする。	This bamboo shoot tastes a bit acrid. My throat is PRICKLING. 	いがいが	pain	3297	sanada_2018	none	
+QUIET-1	1314	syiiN	ここでは何の音もしない。しーんとして静かだね。	There's no sound here at all, it's really QUIET.	しんと	sound	9035	sanada_2018	none	
+QUIET-2	1314	syizuka	ここでは何の音もしない。しーんとして静かだね。	There's no sound here at all, it's really QUIET.	静か	sound	405903	sanada_2018	none	
+RAP (AT THE DOOR)	2396	tataku	戸をたたく	RAP at the door.	叩く	sound	573832	hirayama_1992	ABVD; S200	it's the basic verb for ‘to hit'
+RINGING	NA	kiiN	音が大きすぎて、耳がきーんとする。	The sound is too loud, my ears are RINGING.	きーん	sound	9895	sanada_2018	none	
+ROLL	827	mawaru	車が回る	Wheels ROLL.	回る	action	814082	hirayama_1992	ABVD; S200	
+ROUND	1395	marui	円い穴	ROUND hole	丸い	shape & size	166797	hirayama_1992	ABVD; S200	
+RUDE	1412	zuuzuusyii	世の中には図々しい人がいるもんだ。	There are some RUDE people in this world.	図々しい	action	23075	sanada_2015	none	
+SAD	699	kanasyii	悲しい話を聞いて泣けてきた。	I started crying from hearing the SAD story.	悲しい	emotion	440541	sanada_2015		
+SALTY	1091	syoQpai	今日の味噌汁、ちょっとうすいね。でも、あまりしょっぱいのはからだに悪いよ。	Today's miso soup was a bit weak, but SALTY things aren't good for your body.	しょっぱい	taste	23304	sanada_2018	none	
+SCARY-1	NA	kowai	おじさんが怖い。顔でにらんでいた。	Uncle is SCARY. He was glaring.	怖い	emotion	1198511	sanada_2015	ABVD; S200	
+SCARY-2	1419	kowai-dokidokicomp	ああ、こわかった。まだ胸がどきどきしている。	Aa, that was SCARY. My heart is still pounding.	怖い	emotion	1198511	sanada_2018	ABVD; S200	
+SCARY-3	1419	osorosyii	たくさんの犬に追われて、恐ろしい。	I was chased by lots of dogs, it was SCARY.	恐ろしい	emotion	273089	sanada_2015	none	
+SCRATCH	1436	kaku	つめでかく	SCRATCH with your nails.	掻く	action	315147	hirayama_1992	ABVD; S200	
 SHABBY-1		boroboro	ぼろぼろの物を着て、まったくみすぼらしい。	Wearing SHABBY clothes, he's totally shabby.	ぼろぼろ	appearance	110039	sanada_2015	none	
 SHABBY-2		misuborasyii	ぼろぼろの物を着て、まったくみすぼらしい。	Wearing shabby clothes, he's totally SHABBY.	見窄らしい	appearance	6472	sanada_2015	none	
 SHAKING		buruburu	今日はかなりさむい。体がぶるぶる震える。	Today is really COLD. I'm SHAKING.	ぶるぶる	action	34350	sanada_2018	none	

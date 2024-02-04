@@ -5,7 +5,7 @@
 "FREEZE"	1431	"kooru"	"手ぬぐいが凍る"	"A hand towel FREEZES."	"凍る"	"thermoception"	58534	"hirayama_1992"	"S200"	"for water freezing, more places just use the basic kooru"
 "SMALL"		"tyiisai"	"体が小さい"	"A SMALL body."	"小さい"	"size"	1193935	"hirayama_1992"	"ABVD; S200"	
 "POUNDING (HEART)"	"NA"	"dokidoki"	"ああ、こわかった。まだ胸がどきどきしている。"	"Aa, that was scary. My heart is still POUNDING."	"どきどき"	"sound; movement"	259099	"sanada_2018"	"ABVD; S200"	
-"SCARY-2"	1419	"kowai-dokidokicomp"	"ああ、こわかった。まだ胸がどきどきしている。"	"Aa, that was SCARY. My heart is still pounding."	"怖い"	"interoception_emotion"	1198511	"sanada_2018"	"ABVD; S200"	
+"SCARY-2"	1419	"kowai-dokidokicomp"	"ああ、こわかった。まだ胸がどきどきしている。"	"Aa, that was SCARY. My heart is still pounding."	"怖い"	"emotion"	1198511	"sanada_2018"	"ABVD; S200"	
 "SLICK-1"		"subesube"	"温泉に入ったから、肌がすべすべだ。"	"After coming out of the onsen (hot spring), my skin is SLICK."	"すべすべ"	"texture"	22023	"sanada_2018"	"none"	
 "HUNGRY"	1533	"himozyii"	"あの頃はひもじい思いをしたものだ。"	"At that time I felt very HUNGRY."	"ひもじい"	"interoception"	2889	"sanada_2018"	"none"	
 "OILY/HEAVY (FOOD)"	"NA"	"kudoi"	"脂っぽい（くどい）おかずばかりで、胸につかえる。"	"Because all the side dishes were so OILY, I have heartburn."	"くどい"	"taste"	30669	"sanada_2018"	"none"	
